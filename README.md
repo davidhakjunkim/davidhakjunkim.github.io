@@ -2,7 +2,7 @@
 
 ### Difficulties encountered while working on this project
 
-[Image1](Image1.png)
+[Image1](Image1.jpg)
 
 from
 
