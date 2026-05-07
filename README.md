@@ -70,7 +70,7 @@ The font was applied to the header and body of the text, but I was confused beca
   <img src="This is me.png">
   ```
   
-  So I added "style="margin-bottom: 20px;""
+  So I added "style="margin-bottom: 20px;"
   
 ![Image1](Final_images/Image3.png)
   
@@ -82,7 +82,7 @@ The font was applied to the header and body of the text, but I was confused beca
 
 ![Image1](Final_images/Image4.png)
 
-Having the image and text right below to each other didn't feel aesthetically pleasing. So, I tried to separate them by creating space in the middle using the backspace key, but it didn't work. I asked ChatGPT, and they provided additional code: `style="margin-right: 20px;"`. I added this to the CSS, but it still didn't work. I realized that since I needed space below the image, I should have changed `right` to `bottom`, and consequently, the full meaning of the code was to create a 20px margin at the bottom.
+Having the image and text right below to each other didn't feel aesthetically pleasing. So, I tried to separate them by creating space in the middle using the backspace key, but it didn't work. I asked ChatGPT, and they provided additional code: "style="margin-right: 20px;". I added this to the CSS, but it still didn't work. I realized that since I needed space below the image, I should have changed "right" to "bottom", and consequently, the full meaning of the code was to create a 20px margin at the bottom.
 
 ***
 
